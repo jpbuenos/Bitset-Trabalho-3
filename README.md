@@ -2,6 +2,8 @@ Como executar o arquivo .c do trabalho 3!
 
 OBS: é importante que o usuário utilize o compilador gcc para executar o código.
 
+OBS: não utilize as aspas no momento de colocar o código no terminal.
+
 1° -> Abra a pasta em que deseja baixar o código.
 
 2° -> Abra o terminal/cmd/prompt de comando do sistema operacional.
